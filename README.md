@@ -36,24 +36,20 @@ Sempre me encantei pelo universo da tecnologia, o que me levou a dar o próximo 
 ## 🧠 Conhecimentos
 
 -   🏗️ Técnico em Mêcanica
--   📊 Pacote Office
+-   📊 Pacote Office (Word, Excel e PowerPoint)
 -   🎓 Estudando Engenharia do Software
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=julianapaiva17&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianapaiva17&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=julianapaiva17&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
----
-
-## 🚀 Philosophy
-
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianapaiva17&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ---
 
