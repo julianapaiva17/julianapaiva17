@@ -41,18 +41,6 @@ Sempre me encantei pelo universo da tecnologia, o que me levou a dar o próximo 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=julianapaiva17&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianapaiva17&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
-
 💡 Apaixonada por lógica, desenvolvimento de software e soluções tecnológicas que geram impacto.
 
 🚀 Em constante aprendizado em programação, arquitetura de software e novas tecnologias.
